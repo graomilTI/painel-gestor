@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'fix: remove duplicatas de colaboradores na programacao' --body ' *)",
+      "Bash(gh pr *)",
+      "mcp__claude_ai_Supabase__list_projects",
+      "mcp__claude_ai_Supabase__execute_sql",
+      "Bash(git *)",
+      "mcp__claude_ai_Supabase__apply_migration"
+    ]
+  }
+}
